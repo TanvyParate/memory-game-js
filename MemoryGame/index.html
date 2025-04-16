@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Memory Game</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1 class="title">&#x1F9E0; Memory Game</h1>
+
+    <div class="controls">
+      <button id="restart-btn">&#x1F504; Restart</button>
+      <span id="timer">&#x23F1; Time: 0s</span>
+      <span id="best-time">&#x1F3C6; Best: --</span>
+    </div>
+
+    <div class="game-board" id="game-board">
+      <p id="moves">Moves: 0</p>
+      <div id="win-message" class="hidden">&#x1F389; You Won!</div>
+
+      <audio src="./audio/flip.mp3" id="flip-sound"></audio>
+      <audio src="./audio/match-found.mp3" id="match-sound"></audio>
+      <audio src="./audio/win-sound.mp3" id="win-sound"></audio>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
