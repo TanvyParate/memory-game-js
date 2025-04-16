@@ -1,7 +1,7 @@
 # 🧠 Memory Game (JavaScript)
 
 A fun and interactive Memory Game built with HTML, CSS, and JavaScript.
----
+
 ## 📸 Demo
 
 ▶️ **Watch the video on YouTube**  
