@@ -24,5 +24,5 @@ A fun and interactive Memory Game built with HTML, CSS, and JavaScript.
 ---
 
 ## 📬 Connect with Me  
-🧠 [@TCodeStudiobyTanvy](https://www.youtube.com/@TCodeStudiobyTanvy) – YouTube
+🧠 [@TanvyCodeStudio](https://www.youtube.com/@TCodeStudiobyTanvy) – YouTube
 
