@@ -1,12 +1,6 @@
 # 🧠 Memory Game (JavaScript)
 
 A fun and interactive Memory Game built with HTML, CSS, and JavaScript.
-
-## 📸 Demo
-
-▶️ **Watch the video on YouTube**  
-🔗 [Memory Game](https://youtu.be/5RkhrC3nLXc?si=lUCllfWWC_yGVG7a)
-
 ---
 
 🎮 **Features**
@@ -20,9 +14,3 @@ A fun and interactive Memory Game built with HTML, CSS, and JavaScript.
 - HTML
 - CSS (Custom Styling & Animation)
 - JavaScript (DOM Manipulation & Game Logic)
-
----
-
-## 📬 Connect with Me  
-🧠 [@TanvyCodeStudio](https://www.youtube.com/@TCodeStudiobyTanvy) – YouTube
-
